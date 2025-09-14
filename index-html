@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>My post Instagram</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="header">
+            <h1>My first photo</h1>
+        </div>
+
+        <div class="foto-container">
+            <img src="rigo-baby.jpg" alt="Rito Baby">
+            <p> Los nuevos pañales para los bebes son muy cómodos y pudes ver más información en nuestro perfil</p>
+            <h2>My photo</h2>
+        </div>
+
+        <footer>
+            <p>Este post tiene derechos de la propiedad intelectual</p>
+        </footer>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
